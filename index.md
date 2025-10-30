@@ -54,7 +54,7 @@ You can define strings with the syntax `""`, comments with `~~ ~~`, and variable
 
 ### Cat program
 
-```IO```
+```IO``` 
 
 ### Numerical cat program
 
