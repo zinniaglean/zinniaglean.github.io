@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: Nio
+description: The one-dimentional Turing-complete esolang
+logo: logo.svg
+show_downloads: false
